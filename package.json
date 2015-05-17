@@ -1,0 +1,25 @@
+{
+  "name": "hubot-jira-webhooks",
+  "description": "Hubot plugin to capture and post jira webhooks to chat.",
+  "version": "0.0.1",
+  "author": "Chason Choate <cha55son@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "jira",
+    "webhooks"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cha55son/hubot-jira-webhooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cha55son/hubot-jira-webhooks/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "devDependencies": { },
+  "main": "index.coffee"
+}
